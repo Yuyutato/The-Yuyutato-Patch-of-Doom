@@ -1,4 +1,4 @@
-# The-Yuyutato-Patch-of-Doom
+# The Yuyutato Patch of Doom v1.0
 My First Patch For Touhou 7
 
 You Can Download the Sourcecode and Compile it Yourself in Touhou Toolkit if you Wish
