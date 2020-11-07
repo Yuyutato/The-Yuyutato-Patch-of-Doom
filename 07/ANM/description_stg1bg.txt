@@ -1,0 +1,36 @@
+ENTRY 2
+Name: data/stg1bg/stg1bg.png
+Format: 1
+Width: 512
+Height: 512
+Unknown1: 11
+HasData: 1
+THTX-Size: 1048576
+THTX-Format: 1
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 254*254+1+1
+Sprite: 1 124*124+258+2
+Sprite: 2 124*124+386+2
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 0 0 31 1
+Instruction: 0 0 22
+Instruction: 0 0 2
+
+Script: 1
+Instruction: 0 0 3 1
+Instruction: 0 0 31 1
+Instruction: 0 0 25 2
+Instruction: 0 0 2
+
+Script: 2
+Instruction: 0 0 3 2
+Instruction: 0 0 31 1
+Instruction: 0 0 25 2
+Instruction: 0 0 2
+
+

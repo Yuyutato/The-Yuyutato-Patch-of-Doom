@@ -1,0 +1,25 @@
+ENTRY 2
+Name: data/stg1bg/stg4bg3.png
+Format: 1
+Width: 256
+Height: 256
+Unknown1: 11
+HasData: 1
+THTX-Size: 262144
+THTX-Format: 1
+THTX-Width: 256
+THTX-Height: 256
+THTX-Zero: 0
+
+Sprite: 0 254*254+1+1
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 0 0 31 1
+Instruction: 0 0 22
+Instruction: 0 0 8 0
+Instruction: 0 0 25 2
+Instruction: 7250 0 34 400 0 255
+Instruction: 17250 0 2
+
+

@@ -1,0 +1,19 @@
+ENTRY 2
+Name: data/face/st01/face_01_00.png
+Format: 1
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 1048576
+THTX-Format: 1
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 126*510+1+1
+Sprite: 1 126*510+129+1
+Sprite: 2 126*510+257+1
+Sprite: 3 126*510+385+1
+Sprite: 4 78*512+433+0
+
+
