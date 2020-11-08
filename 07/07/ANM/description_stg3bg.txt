@@ -1,0 +1,74 @@
+ENTRY 2
+Name: data/stg1bg/stg3bg.png
+Format: 1
+Width: 512
+Height: 512
+Unknown1: 11
+HasData: 1
+THTX-Size: 1048576
+THTX-Format: 1
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 256*128+0+0
+Sprite: 1 256*128+0+128
+Sprite: 2 256*128+0+256
+Sprite: 3 256*128+0+384
+Sprite: 4 126*126+257+1
+Sprite: 5 254*254+257+257
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 0 0 31 1
+Instruction: 0 0 22
+Instruction: 400 0 8 255
+Instruction: 400 0 34 320 0 0
+Instruction: 720 0 34 60 0 255
+Instruction: 780 0 2
+
+Script: 1
+Instruction: 0 0 3 1
+Instruction: 0 0 31 1
+Instruction: 0 0 22
+Instruction: 400 0 8 255
+Instruction: 400 0 34 320 0 0
+Instruction: 720 0 34 60 0 255
+Instruction: 780 0 2
+
+Script: 2
+Instruction: 0 0 3 2
+Instruction: 0 0 31 1
+Instruction: 0 0 22
+Instruction: 400 0 8 255
+Instruction: 400 0 34 320 0 0
+Instruction: 720 0 34 60 0 255
+Instruction: 780 0 2
+
+Script: 3
+Instruction: 0 0 3 3
+Instruction: 0 0 31 1
+Instruction: 0 0 22
+Instruction: 400 0 8 255
+Instruction: 400 0 34 320 0 0
+Instruction: 720 0 34 60 0 255
+Instruction: 780 0 2
+
+Script: 4
+Instruction: 0 0 3 4
+Instruction: 0 0 31 1
+Instruction: 0 0 8 0
+Instruction: 0 0 34 240 0 255
+Instruction: 0 0 12 0.0f 0.0f -1.5707964f
+Instruction: 30000 0 2
+
+Script: 5
+Instruction: 0 0 3 5
+Instruction: 0 0 31 1
+Instruction: 0 0 30 1
+Instruction: 0 0 22
+Instruction: 0 0 8 0
+Instruction: 700 0 34 240 0 255
+Instruction: 950 0 2
+
+
