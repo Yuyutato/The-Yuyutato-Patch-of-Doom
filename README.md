@@ -1,6 +1,6 @@
 # The Yuyutato Patch of Doom v1.0
 My First Patch For Touhou 7
 
-You Can Download the Sourcecode and Compile it Yourself in Touhou Toolkit if you Wish
-
-A th07.dat Will Also Be Avalible in the Release's Section for those Wishing for a Quick Install
+Some Midi Files Don't Work Properly On Windows 10 Due to some updates
+Please Use Virtualmidisynth: https://coolsoft.altervista.org/en/virtualmidisynth (I Can Confirm this is Safe)
+And one of the .sf2 files included in the download
